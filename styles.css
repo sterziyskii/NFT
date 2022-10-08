@@ -189,6 +189,8 @@ hr {
     transition: opacity 200ms ease-in;
 }
 
+/* MEDIA QUERIES */
+
 @media screen and (max-width: 1080px) {
     #card {
         grid-column: 6 / span 6;
